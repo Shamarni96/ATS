@@ -102,8 +102,8 @@ img{
 
 @media (max-width: 576px ) {
     .memory-game{
-        width: 260px;
-        height: 260px;
+        width: 380px;
+        height: 380px;
     }
     .navbar {
         padding: .8rem;
