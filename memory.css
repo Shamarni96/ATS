@@ -71,16 +71,6 @@ img{
     .navbar {
     display: none;
     }
-    .navbar {
-        padding: .8rem;
-        size: 0ch;
-    }
-    .navbar-nav li {
-        padding-right: 20px;
-    }
-    .nav-link{
-        font-size: 1.1em !important;
-    }
 }
 
 @media (max-width: 768px) {
@@ -88,31 +78,11 @@ img{
         width: 460px;
         height: 460px;
     }
-    .navbar {
-        padding: .8rem;
-        size: 0ch;
-    }
-    .navbar-nav li {
-        padding-right: 20px;
-    }
-    .nav-link{
-        font-size: 1.1em !important;
-    }
 }
 
 @media (max-width: 576px ) {
     .memory-game{
         width: 380px;
         height: 380px;
-    }
-    .navbar {
-        padding: .8rem;
-        size: 0ch;
-    }
-    .navbar-nav li {
-        padding-right: 20px;
-    }
-    .nav-link{
-        font-size: 1.1em !important;
     }
 }
